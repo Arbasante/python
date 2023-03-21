@@ -37,5 +37,5 @@ while True:
         case _:
             print("comando desconocido")
 
-print ("good bye")
+print ("good bye adios")
     
