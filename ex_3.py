@@ -5,4 +5,3 @@ for filename in filename:
     filename = filename(filename)
 
 print(filename)
-print("hola mundo")
