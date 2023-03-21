@@ -5,3 +5,5 @@ for filename in filename:
     filename = filename(filename)
 
 print(filename)
+print("g")
+print("f")
