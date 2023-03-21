@@ -1,7 +1,8 @@
 filename = ['1.arroz.txt', '2.tuyo.txt', '3.thue.txt']
 
-for item in filename:
-    filename = item.replace('.','-', 1)
-    filename = filename.(item)
+for filename in filename:
+    filename = filename.replace('.','-', 1)
+    filename = filename(filename)
 
 print(filename)
+print("hola mundo")
